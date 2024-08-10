@@ -1,5 +1,5 @@
 var flutter = "";
-let timer = 60;
+let timer = 30;
 let score = 0;
 let num;
 let totalscore;
